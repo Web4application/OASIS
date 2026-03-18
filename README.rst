@@ -1,6 +1,3 @@
-
-
-
 # OASIS - The Universal Web4/Web5 Infrastructure
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
